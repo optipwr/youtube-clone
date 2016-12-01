@@ -87,50 +87,84 @@
 #left-side {
 	width: 60%;
 	float: left;
-	background-color: gray;
 	border: 1px solid black;
+}
+
+#featured {
+	font-family: arial;
+	padding-left: 8px;
 }
 
 #big-video {
 	float: left;
+	padding-left: 8px;
 }
 
 #right-side {
 	width: 30%;
 	float: left;
-	background-color: darkgreen;
-	height: 323px;
+	height: 339px;
 	border: 1px solid black;
 	margin-left: 2%;
 }
 
+#thumb-wrapper {
+	/* float: left; */
+}
+
+#thumb-one {
+	padding-top: 15px;
+}
+
 #thumb-one img {
 	height: 80px;
-	margin-left: 1%;
+	float: left;
+	padding-bottom: 20px;
 }
 
 #thumb-two img {
 	height: 80px;
-	margin-left: 1%;
+	float: left;
+	padding-bottom: 20px;
 }
 
 #thumb-three img {
 	height: 80px;
-	margin-left: 1%;
+	float: left;
+}
+
+#thumb-one, #thumb-two, #thumb-three {
+	float: left;
+	padding-left: 20px;
 }
 
 #desc-one {
-
+	/* display: inline; */
+	float: left;
+	max-width: 160px;
+	padding-left: 10px;
 }
 
 #desc-two {
-
+	/* display: inline; */
+	float: left;
+	max-width: 160px;
+	padding-left: 10px;
 }
 
 #desc-three {
-
+	/* display: inline; */
+	float: left;
+	width: 160px;
+	padding-left: 10px;
 }
 
 #big-right-video img {
-	width: 70%;
+	width: 80%;
+	padding-left: 15px;
+}
+
+#big-right-desc {
+	max-width: 240px;
+	padding-left: 15px;
 }
