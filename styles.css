@@ -1,0 +1,136 @@
+#header {
+	width: 100%;
+	float: left;
+}
+
+#logo {
+	float: left;
+}
+
+#logo img{
+	width: 200px;
+}
+
+#left-header {
+	float: left;
+	width: 30%;
+}
+
+#top-part {
+	overflow: hidden;
+	margin-top: 60px;
+}
+
+#middle-header {
+	float: left;
+	width: 45%;
+}
+
+#search-bar {
+	float: left;
+}
+
+#search-bar input {
+	width: 300px;
+	height: 23px;
+}
+
+#search-button {
+	float: left;
+}
+
+#search-button button {
+	padding: 8px;
+	margin-left: 15px;
+}
+
+#center-links a{
+	padding-right: 66px;
+	font-family: arial;
+	color: gray;
+}
+
+#right-header {
+	float: left;
+	width: 22%;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+#account-info {
+	float: right;
+}
+
+#account-info a {
+	font-family: arial;
+	text-decoration: none;
+}
+
+#right-links {
+	clear: both;
+	float: right;
+	padding-top: 20px;
+}
+
+#right-links a {
+	font-family: arial;
+	text-decoration: none;
+	color: gray;
+	padding-left: 20px;
+}
+
+#primary-body {
+	max-width: 1000px;
+	margin: auto;
+}
+
+#left-side {
+	width: 60%;
+	float: left;
+	background-color: gray;
+	border: 1px solid black;
+}
+
+#big-video {
+	float: left;
+}
+
+#right-side {
+	width: 30%;
+	float: left;
+	background-color: darkgreen;
+	height: 323px;
+	border: 1px solid black;
+	margin-left: 2%;
+}
+
+#thumb-one img {
+	height: 80px;
+	margin-left: 1%;
+}
+
+#thumb-two img {
+	height: 80px;
+	margin-left: 1%;
+}
+
+#thumb-three img {
+	height: 80px;
+	margin-left: 1%;
+}
+
+#desc-one {
+
+}
+
+#desc-two {
+
+}
+
+#desc-three {
+
+}
+
+#big-right-video img {
+	width: 70%;
+}
